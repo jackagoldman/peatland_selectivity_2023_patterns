@@ -1,6 +1,6 @@
 # Peatland fire selectivity: 2023 patterns
+[![DOI](https://zenodo.org/badge/753884590.svg)](https://zenodo.org/doi/10.5281/zenodo.23603261)
 
-DOI: 10.5281/zenodo.23603261
 
 Code and data for:
 
