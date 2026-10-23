@@ -2,9 +2,10 @@
 
 Code and data for:
 
-> [Authors] ([Year]). [Title]. *[Journal]*. https://doi.org/[DOI]
+Goldman, JA; Pelletier, N; Thompson, DK; Pontone N; Wilkinson, SL, Guindon, L; Millard, K. Peatlands burn preferentially to uplands during severe summertime drought: empirical evidence from 2023 Canadian wildfires
 
-This repository calculates how strongly fires in the 2023 Canadian fire season selected for or avoided peatland classes, compared with uplands. Selectivity is measured with Jacobs' index for each daily fire-progression polygon. The analysis then models selectivity against peatland class, canopy cover, fire weather (BUI, ISI), season and region.
+
+This repository calculates whether fires in the 2023 Canadian fire season selected for or avoided peatland classes, compared with uplands. Selectivity is measured with Jacobs' index for each daily fire-progression polygon. The analysis then models selectivity against peatland class, canopy structure, fire weather (BUI, ISI), season and region.
 
 ## Repository structure
 
