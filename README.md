@@ -32,4 +32,4 @@ dplyr, emmeans, foreach, doParallel, ggplot2, gt, here, lme4, maptiles, patchwor
 
 ## License
 
-[To be added]
+CC-BY-4.0 license
