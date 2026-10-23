@@ -1,5 +1,7 @@
 # Peatland fire selectivity: 2023 patterns
 
+DOI: 10.5281/zenodo.23603261
+
 Code and data for:
 
 Goldman, JA; Pelletier, N; Thompson, DK; Pontone N; Wilkinson, SL, Guindon, L; Millard, K. Peatlands burn preferentially to uplands during severe summertime drought: empirical evidence from 2023 Canadian wildfires
